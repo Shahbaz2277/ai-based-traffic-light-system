@@ -15,7 +15,7 @@
 
 | 🖥️ Live Web Dashboard | 🛠️ Hardware Setup & Model |
 |:---:|:---:|
-| ![Live Web Dashboard](TrafficLight_Ai-main/Images/Dashboard.png) | ![Hardware Setup](Images/HardwareDesign.jpeg) |
+| ![Live Web Dashboard](TrafficLight_Ai-main/Images/Dashboard.png) | ![Hardware Setup](TrafficLight_Ai-main/Images/HardwareDesign.jpeg) |
 | *Real-time video feeds, AI car counts & signal controls* | *3-lane physical intersection with ESP32 & LEDs* |
 
 ---
@@ -41,7 +41,7 @@ Normal traffic lights change on rigid, fixed timers. Even when a road is complet
 ## 🏗️ System Flow & Architecture
 
 <p align="center">
-  <img src="Images/FlowDiagram.jpg" alt="System Flow Diagram" width="100%">
+  <img src="TrafficLight_Ai-main/Images/FlowDiagram.jpg" alt="System Flow Diagram" width="100%">
 </p>
 
 ```
@@ -143,7 +143,7 @@ python app.py
 ## 🎮 Comprehensive Web Dashboard Features
 
 <p align="center">
-  <img src="Images/Dashboard.png" alt="Web Dashboard Interface" width="90%">
+  <img src="TrafficLight_Ai-main/Images/Dashboard.png" alt="Web Dashboard Interface" width="90%">
 </p>
 
 The web dashboard functions as a centralized mission control center accessible from any **laptop, desktop, tablet, or smartphone**:
