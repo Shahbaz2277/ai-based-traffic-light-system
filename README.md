@@ -20,31 +20,6 @@
 
 ---
 
-## 🏗️ System Flow & Architecture
-
-<p align="center">
-  <img src="Images/FlowDiagram.jpg" alt="System Flow Diagram" width="100%">
-</p>
-
----
-
-## 🎮 Web Dashboard
-
-<p align="center">
-  <img src="Images/Dashboard.png" alt="Web Dashboard Interface" width="90%">
-</p>
-
----
-
-## 🧠 AI Model & Custom Training Pipeline
-
-<p align="center">
-  <img src="Images/RoboFlow_mainInterface.png" alt="Roboflow Annotation Interface" width="85%">
-</p>
-
-<p align="center">
-  <img src="Images/RoboFlow_ModelAnalytics.png" alt="Roboflow Model Analytics" width="70%">
-</p>
 
 ## 💡 What is this Project?
 
