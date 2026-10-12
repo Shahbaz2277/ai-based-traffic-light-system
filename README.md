@@ -15,7 +15,7 @@
 
 | 🖥️ Live Web Dashboard | 🛠️ Hardware Setup & Model |
 |:---:|:---:|
-| ![Live Web Dashboard](https://github.com/Shahbaz2277/ai-based-traffic-light-system/tree/main/TrafficLight_Ai-main/Images/Dashboard.png) | ![Hardware Setup](Images/HardwareDesign.jpeg) |
+| ![Live Web Dashboard](TrafficLight_Ai-main/Images/Dashboard.png) | ![Hardware Setup](Images/HardwareDesign.jpeg) |
 | *Real-time video feeds, AI car counts & signal controls* | *3-lane physical intersection with ESP32 & LEDs* |
 
 ---
